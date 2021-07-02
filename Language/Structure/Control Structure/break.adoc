@@ -24,7 +24,7 @@ subCategories: [ "Control Structure" ]
 --
 [float]
 === Código de Exemplo
-No códgo seguinte, o break quebra o loop `for` quando o valor do sensor excede o limiar.
+No código seguinte, o break quebra o loop `for` quando o valor do sensor excede o limiar.
 [source,arduino]
 ----
 int lim = 40;
